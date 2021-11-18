@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @soulcook
+- 👀 I've been using GitHub to create a Rako plugin for Homebridge.
+- 📫 You can reach me at paulcaplin@me.com
